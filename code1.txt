@@ -1,0 +1,7 @@
+class Sample
+{
+	// this is a sample class file
+	public Sample() {}
+	
+	public string Name { get; set; } = "Sample File";
+}
